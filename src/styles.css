@@ -1,0 +1,16 @@
+/* You can add global styles to this file, and also import other style files */
+@import url("https://fonts.googleapis.com/css?family=Lato:300");
+
+body {
+    font-family: 'Lato', sans-serif;
+    color : white;
+    background-image:url("./app/shared/img/cool-background.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;   
+}
+
+img {
+    height: 80px;
+    width: 80px;
+
+}
